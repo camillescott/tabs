@@ -29,7 +29,6 @@ E7  F
 
 Dm G C
 
-
 [[verse ii]]
 C                     E7    F                                C
 It's hard to see the road through this rain and all the fog
@@ -48,8 +47,6 @@ so shine on Georgia Moon!
 Dm G C
 Shine on!
 
-
-
 [[transition]]
 E7  F
 
@@ -60,10 +57,6 @@ Dm G C
 E7  F
 
 E7  F   C
-
-
-
-
 
 [[verse iii]]
 C                  E7  F                     C
